@@ -1,6 +1,6 @@
 # Microprocessors 1 @ UMass Lowell
 # Christopher Aguirre
-# PIC32MM0064GPL036 Micocontroller
+# PIC32MM0064GPL036 Microcontroller
 
 1) Inputs:
 S1 (RB7), S2 (RB13)
